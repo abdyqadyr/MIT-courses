@@ -1,0 +1,44 @@
+
+body{
+	margin: 0;
+	padding: 0;
+}
+.name{
+	font-size: 70px; 
+	text-align: center;
+	padding: 50px;
+	color: white;
+	color: #3d4752;
+
+}
+.head{
+		background-color: #eda923;
+		width: 100vw;
+		height: 150px;
+}
+.main{
+	display: flex;
+	flex-direction: row;
+	background-color: #3d4752;
+}
+.video{
+	width: 400px;
+	height: 200px;
+}
+.flex-carousel{
+	width: 50%;
+	padding: 50px 20px ;
+}
+
+.machine-l{
+	width: 50%;
+	padding: 20px 20px;
+}
+.text{
+	width: 100%;
+	background-color: #eda923;
+	color: #3d4752;
+	padding: 40px 40px;
+	
+
+}
